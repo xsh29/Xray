@@ -46,7 +46,7 @@
 安装及使用：https://233boy.com/xray/xray-script/
 
 安装命令
-bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh) -v v1.8.3
+bash <(wget -qO- -o- https://github.com/xsh29/Xray/blob/main/install.sh) -v v1.8.3
 
 # 帮助
 
